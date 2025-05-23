@@ -1,0 +1,10 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\obj\Debug\WinButNum.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\obj\Debug\WinButNum.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№3\WinButNum\obj\Debug\WinButNum.Form1.resources

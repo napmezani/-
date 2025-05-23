@@ -1,0 +1,11 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\bin\Debug\WinTimer1.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\bin\Debug\WinTimer1.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\bin\Debug\WinTimer1.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №3\№1\WinTimer1\obj\Debug\WinTimer1.Form1.resources

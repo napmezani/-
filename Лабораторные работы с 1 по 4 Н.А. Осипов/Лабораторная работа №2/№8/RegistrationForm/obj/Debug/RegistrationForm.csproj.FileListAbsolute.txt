@@ -1,0 +1,10 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\obj\Debug\RegistrationForm.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№8\RegistrationForm\obj\Debug\RegistrationForm.pdb

@@ -1,0 +1,11 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\bin\Debug\WinLinkLabel.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\bin\Debug\WinLinkLabel.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\bin\Debug\WinLinkLabel.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.Form1.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.Form2.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№6\WinLinkLabel\obj\Debug\WinLinkLabel.pdb

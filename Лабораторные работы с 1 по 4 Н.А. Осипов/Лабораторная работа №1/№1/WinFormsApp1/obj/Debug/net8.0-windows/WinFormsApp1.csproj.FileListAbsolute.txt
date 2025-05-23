@@ -1,0 +1,17 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\№1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

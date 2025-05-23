@@ -1,0 +1,10 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\bin\Debug\№1.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\bin\Debug\№1.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\bin\Debug\№1.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\obj\Debug\WinQuestion.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\obj\Debug\_1.Form1.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\obj\Debug\№1.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Лабораторные работы с 1 по 4 Н.А. Осипов\Лабораторная работа №2\№1\obj\Debug\№1.pdb
