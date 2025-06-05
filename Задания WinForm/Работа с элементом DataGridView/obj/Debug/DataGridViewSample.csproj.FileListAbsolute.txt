@@ -1,0 +1,22 @@
+D:\text\WindowsFormsApp1\bin\Debug\DataGridViewSample.exe.config
+D:\text\WindowsFormsApp1\bin\Debug\DataGridViewSample.exe
+D:\text\WindowsFormsApp1\bin\Debug\DataGridViewSample.pdb
+D:\text\WindowsFormsApp1\obj\Debug\DataGridViewSample.csproj.AssemblyReference.cache
+D:\text\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEditBook.resources
+D:\text\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmDataGridViewSampleMain.resources
+D:\text\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\text\WindowsFormsApp1\obj\Debug\DataGridViewSample.csproj.GenerateResource.cache
+D:\text\WindowsFormsApp1\obj\Debug\DataGridViewSample.csproj.CoreCompileInputs.cache
+D:\text\WindowsFormsApp1\obj\Debug\DataGridViewSample.exe
+D:\text\WindowsFormsApp1\obj\Debug\DataGridViewSample.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\bin\Debug\DataGridViewSample.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\bin\Debug\DataGridViewSample.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\bin\Debug\DataGridViewSample.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\DataGridViewSample.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\WindowsFormsApp1.FrmDataGridViewSampleMain.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\DataGridViewSample.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\DataGridViewSample.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\DataGridViewSample.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\DataGridViewSample.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Работа с элементом DataGridView\obj\Debug\DataGridViewSample.FrmEditBook.resources

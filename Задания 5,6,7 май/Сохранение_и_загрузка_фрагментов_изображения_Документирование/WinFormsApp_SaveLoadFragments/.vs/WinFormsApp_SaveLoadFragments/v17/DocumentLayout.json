@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD45281F-1A64-44E4-9DAE-89733EACA5C2}|WinFormsApp_SaveLoadFragments.csproj|C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD45281F-1A64-44E4-9DAE-89733EACA5C2}|WinFormsApp_SaveLoadFragments.csproj|solutionrelative:form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD45281F-1A64-44E4-9DAE-89733EACA5C2}|WinFormsApp_SaveLoadFragments.csproj|c:\\users\\mydre\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0437\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\winformsapp_saveloadfragments\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD45281F-1A64-44E4-9DAE-89733EACA5C2}|WinFormsApp_SaveLoadFragments.csproj|solutionrelative:form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD45281F-1A64-44E4-9DAE-89733EACA5C2}|WinFormsApp_SaveLoadFragments.csproj|C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\arraypictures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD45281F-1A64-44E4-9DAE-89733EACA5C2}|WinFormsApp_SaveLoadFragments.csproj|solutionrelative:arraypictures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayPictures.cs",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\ArrayPictures.cs",
+              "RelativeDocumentMoniker": "ArrayPictures.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\ArrayPictures.cs",
+              "RelativeToolTip": "ArrayPictures.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwJIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:59:08.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Main.cs",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\Form_Main.cs",
+              "RelativeDocumentMoniker": "Form_Main.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\Form_Main.cs",
+              "RelativeToolTip": "Form_Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:58:42.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\Form_Main.cs",
+              "RelativeDocumentMoniker": "Form_Main.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 \u0417\u0430\u0434\u0430\u043D\u0438\u044F 5,6,7 \u043C\u0430\u0439 2025\\\u0421\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0438\u0435_\u0438_\u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430_\u0444\u0440\u0430\u0433\u043C\u0435\u043D\u0442\u043E\u0432_\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F_\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\WinFormsApp_SaveLoadFragments\\Form_Main.cs [Design]",
+              "RelativeToolTip": "Form_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:52:01.194Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

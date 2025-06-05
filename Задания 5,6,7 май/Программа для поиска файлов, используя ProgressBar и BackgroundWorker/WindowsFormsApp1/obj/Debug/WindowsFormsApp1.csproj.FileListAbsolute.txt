@@ -1,0 +1,10 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmFileFinderMain.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки WinForm\Программа для поиска файлов, используя ProgressBar и BackgroundWorker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

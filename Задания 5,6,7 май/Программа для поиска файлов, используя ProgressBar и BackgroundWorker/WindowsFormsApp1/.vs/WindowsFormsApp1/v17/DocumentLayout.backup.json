@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F ProgressBar \u0438 BackgroundWorker\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEC3EA4-4FDC-4275-8179-A86F16A8EAB5}|WindowsFormsApp1.csproj|c:\\users\\mydre\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 winform\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F progressbar \u0438 backgroundworker\\windowsformsapp1\\frmfilefindermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEC3EA4-4FDC-4275-8179-A86F16A8EAB5}|WindowsFormsApp1.csproj|solutionrelative:frmfilefindermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEC3EA4-4FDC-4275-8179-A86F16A8EAB5}|WindowsFormsApp1.csproj|c:\\users\\mydre\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 winform\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F progressbar \u0438 backgroundworker\\windowsformsapp1\\frmfilefindermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AEC3EA4-4FDC-4275-8179-A86F16A8EAB5}|WindowsFormsApp1.csproj|solutionrelative:frmfilefindermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEC3EA4-4FDC-4275-8179-A86F16A8EAB5}|WindowsFormsApp1.csproj|c:\\users\\mydre\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 winform\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F progressbar \u0438 backgroundworker\\windowsformsapp1\\driveinfoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEC3EA4-4FDC-4275-8179-A86F16A8EAB5}|WindowsFormsApp1.csproj|solutionrelative:driveinfoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmFileFinderMain.cs",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F ProgressBar \u0438 BackgroundWorker\\WindowsFormsApp1\\FrmFileFinderMain.cs",
+              "RelativeDocumentMoniker": "FrmFileFinderMain.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F ProgressBar \u0438 BackgroundWorker\\WindowsFormsApp1\\FrmFileFinderMain.cs*",
+              "RelativeToolTip": "FrmFileFinderMain.cs*",
+              "ViewState": "AgIAAEIBAAAAAAAAAAD4v08BAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:12:16.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriveInfoItem.cs",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F ProgressBar \u0438 BackgroundWorker\\WindowsFormsApp1\\DriveInfoItem.cs",
+              "RelativeDocumentMoniker": "DriveInfoItem.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F ProgressBar \u0438 BackgroundWorker\\WindowsFormsApp1\\DriveInfoItem.cs*",
+              "RelativeToolTip": "DriveInfoItem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:49:46.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmFileFinderMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F ProgressBar \u0438 BackgroundWorker\\WindowsFormsApp1\\FrmFileFinderMain.cs",
+              "RelativeDocumentMoniker": "FrmFileFinderMain.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430 \u0434\u043B\u044F \u043F\u043E\u0438\u0441\u043A\u0430 \u0444\u0430\u0439\u043B\u043E\u0432, \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F ProgressBar \u0438 BackgroundWorker\\WindowsFormsApp1\\FrmFileFinderMain.cs [Design]*",
+              "RelativeToolTip": "FrmFileFinderMain.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:31:13.164Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

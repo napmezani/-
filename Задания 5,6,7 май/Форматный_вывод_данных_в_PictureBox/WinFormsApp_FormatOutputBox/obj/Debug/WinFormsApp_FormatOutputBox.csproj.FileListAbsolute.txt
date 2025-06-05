@@ -1,0 +1,20 @@
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.form_Main.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Задачи из папки Задания 5,6,7 май 2025\Форматный вывод данных в PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.exe.config
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\bin\Debug\WinFormsApp_FormatOutputBox.pdb
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.AssemblyReference.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.form_Main.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.Properties.Resources.resources
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.GenerateResource.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.csproj.CoreCompileInputs.cache
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.exe
+C:\Users\mydre\OneDrive\Рабочий стол\Работы\Задачи из папки Задания 5,6,7 май 2025\Форматный_вывод_данных_в_PictureBox\WinFormsApp_FormatOutputBox\obj\Debug\WinFormsApp_FormatOutputBox.pdb

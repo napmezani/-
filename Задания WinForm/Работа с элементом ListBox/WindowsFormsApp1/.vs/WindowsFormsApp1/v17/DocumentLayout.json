@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u043E\u043C ListBox\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{767FB1F0-AE49-480A-B1A2-20B7E2226680}|WindowsFormsApp1.csproj|c:\\users\\mydre\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 winform\\\u0440\u0430\u0431\u043E\u0442\u0430 \u0441 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u043E\u043C listbox\\windowsformsapp1\\frmlistboxsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767FB1F0-AE49-480A-B1A2-20B7E2226680}|WindowsFormsApp1.csproj|solutionrelative:frmlistboxsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767FB1F0-AE49-480A-B1A2-20B7E2226680}|WindowsFormsApp1.csproj|c:\\users\\mydre\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0437\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 winform\\\u0440\u0430\u0431\u043E\u0442\u0430 \u0441 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u043E\u043C listbox\\windowsformsapp1\\frmlistboxsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{767FB1F0-AE49-480A-B1A2-20B7E2226680}|WindowsFormsApp1.csproj|solutionrelative:frmlistboxsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmListBoxSample.cs",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u043E\u043C ListBox\\WindowsFormsApp1\\FrmListBoxSample.cs",
+              "RelativeDocumentMoniker": "FrmListBoxSample.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u043E\u043C ListBox\\WindowsFormsApp1\\FrmListBoxSample.cs",
+              "RelativeToolTip": "FrmListBoxSample.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAnwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:51:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmListBoxSample.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u043E\u043C ListBox\\WindowsFormsApp1\\FrmListBoxSample.cs",
+              "RelativeDocumentMoniker": "FrmListBoxSample.cs",
+              "ToolTip": "C:\\Users\\mydre\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0417\u0430\u0434\u0430\u0447\u0438 \u0438\u0437 \u043F\u0430\u043F\u043A\u0438 WinForm\\\u0420\u0430\u0431\u043E\u0442\u0430 \u0441 \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u043E\u043C ListBox\\WindowsFormsApp1\\FrmListBoxSample.cs [Design]",
+              "RelativeToolTip": "FrmListBoxSample.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T23:42:51.693Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication_LuckyTicket", "WindowsFormsApplication_LuckyTicket.csproj", "{4DEB8B5F-7907-40F9-88B4-28C457630B1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEB8B5F-7907-40F9-88B4-28C457630B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEB8B5F-7907-40F9-88B4-28C457630B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEB8B5F-7907-40F9-88B4-28C457630B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEB8B5F-7907-40F9-88B4-28C457630B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BFA09AF-1E4D-42D8-A889-0F94A84E3AD1}
+	EndGlobalSection
+EndGlobal
